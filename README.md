@@ -4,22 +4,23 @@
 
 > "Friends don't lie." — Eleven, season one
 
-**At a glance:** a sci-fi horror series set in the small town of Hawkins, Indiana. Four seasons so far, 34 episodes[^1], one alternate dimension, and a group of kids who keep riding their bikes into trouble.
+**At a glance:** a sci-fi horror series set in the small town of Hawkins, Indiana. Five seasons, 42 episodes[^1], one alternate dimension, and a group of kids who keep riding their bikes into trouble.
 
 ## What it is
 
 *Stranger Things* starts in 1983 with a missing boy and a girl who escapes from a laboratory. What looks like a monster-of-the-week show turns into a story about grief, growing up, and the fact that adults rarely believe children. The horror is real, but the show works because the friendships are written properly.
 
-I first watched it in 2022, during the break between the fourth season's two volumes, and ended up watching the whole thing again within a month. The second time around, the small details stood out more: the walkie-talkie calls, the Christmas lights, the way every season opens with the same shot of the same town.
+I first watched it in 2022, during the break between the fourth season's two volumes, and ended up watching the whole thing again within a month. The second time around, the small details stood out more: the walkie-talkie calls, the Christmas lights, the way every season opens with the same shot of the same town. The fifth and final season arrived in late 2025 and closes the story.
 
 ## The seasons, ranked
 
 | Rank | Season | Year | Episodes | Main villain | Short verdict |
 | :--: | :--- | :--: | :--: | :--- | :--- |
-| 1 | Season 4 | 2022 | 9 | Vecna | The scariest and the most emotional of the four. |
+| 1 | Season 4 | 2022 | 9 | Vecna | The scariest and the most emotional of the five. |
 | 2 | Season 1 | 2016 | 8 | Demogorgon | Still the tightest story. Nothing is wasted. |
-| 3 | Season 3 | 2019 | 8 | The Mind Flayer | The mall setting is a lot of fun. |
-| 4 | Season 2 | 2017 | 9 | The Mind Flayer | The one episode away from Hawkins is the weak spot. |
+| 3 | Season 5 | 2025 | 8 | Vecna | The biggest scale of the five, and the ending mostly lands. |
+| 4 | Season 3 | 2019 | 8 | The Mind Flayer | The mall setting is a lot of fun. |
+| 5 | Season 2 | 2017 | 9 | The Mind Flayer | The one episode away from Hawkins is the weak spot. |
 
 My least favourite episode is "The Lost Sister", the one where Eleven goes to Chicago. It stops the season dead, and the story never really needs it.
 
@@ -78,9 +79,10 @@ My least favourite episode is "The Lost Sister", the one where Eleven goes to Ch
 - [x] Season 3
 - [x] Season 4, volume 1
 - [x] Season 4, volume 2
+- [x] Season 5
 - [ ] Watch *Beyond Stranger Things* and the behind-the-scenes specials
 - [ ] Read the *Stranger Things* comic prequels
-- [ ] Rewatch season 4 before season 5 arrives
+- [ ] Rewatch the whole series from the start, now that it has ended
 
 ## Things people get wrong
 
@@ -101,6 +103,13 @@ Will was taken into the Upside Down and survived there for a week by hiding from
 <summary><strong>Click to reveal: the season 4 twist</strong></summary>
 
 Vecna, the monster of season 4, is Henry Creel, the boy who killed his family in the 1950s and was experimented on by Dr. Brenner. Everything in the season, including the Creel house and the gates, traces back to him.
+
+</details>
+
+<details>
+<summary><strong>Click to reveal: what season 5 is about</strong></summary>
+
+It is November 1987, about a year and a half after season 4. Rifts have opened across Hawkins, the military has put the town under quarantine and is hunting Eleven, and the plan is simple: find Vecna and kill him before the anniversary of Will's disappearance.
 
 </details>
 
@@ -126,4 +135,4 @@ This `README.md` was written for **CITE1008, Application Development**, Pre-Fina
 **Section:** BSIT 3E
 **Date:** November 2026
 
-[^1]: Season 5 had not been released when this was written, so the episode count covers seasons 1 to 4.
+[^1]: Season 5 was released in three parts: four episodes on November 26, 2025, three more on December 25, and the finale on December 31, 2025.
